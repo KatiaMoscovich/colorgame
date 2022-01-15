@@ -21,9 +21,16 @@ function generateRandomColors(num){
 ```
 
 
-::: warning
-*random warning block*
-:::
+
+- [x] finished
+
+
+- [ ] 
+
+
+
+
+> "If you ever talk to a great programmer, you'll find they know their tools like an artist knows their paintbrushes"
  
 
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
