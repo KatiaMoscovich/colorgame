@@ -61,7 +61,7 @@ function reset(){
     }
     h1.style.background="blueviolet"
     message.textContent=""
-    resetBtn.textContent="Nuevos colores"
+    resetBtn.textContent="sarasa"
   }
   
 function changeColor(color){
